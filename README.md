@@ -15,13 +15,13 @@
 - 👨‍💻  constantly learning new technologies to improve my skills.
 - 💬 **Ask me about**:
 - 🎯My experience with :
-   Python,C, C++,javascripts and Nodejs   or related to Backend Concepts.
-- 🌟 **Current Project**:Develop Backend software Store App project.
+   Python, C, C++, javascript and Nodejs or related to Backend Concepts.
+- 🌟 **Current Project**:Develop Backend Software Store App project.
 --- 
 ### Connect with Me :
 
 <a href="abumaraq.comp@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Aya-Khaled14"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/ayaabumaraq"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/aya-abumaraq/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
